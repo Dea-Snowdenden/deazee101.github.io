@@ -337,6 +337,8 @@ header .intro-text {
 	width: 20%;
 	height: 20%;
 	display: inline-block;
+	filter: grayscale(100%);
+
 }
 #about p {
 	margin-top: 40px;
